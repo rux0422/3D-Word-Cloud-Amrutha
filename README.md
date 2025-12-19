@@ -17,7 +17,7 @@ An interactive web application that visualizes article topics as a stunning 3D w
 - **Beautiful 3D Visualization**:
   - Interactive rotating word cloud
   - Words sized by relevance
-  - Color-coded by importance
+  - Color-coded by importance/relevance/weight (importance, weight and relevance are the same thing). The backend function displays the weight which is essentially the same     as relevance.
   - Hover effects and animations
   - Zoom and rotate controls
 - **Responsive Design**: Works on desktop and mobile devices
