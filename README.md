@@ -51,8 +51,8 @@ An interactive web application that visualizes article topics as a stunning 3D w
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/3D-Word-Cloud-Ruxst.git
-cd 3D-Word-Cloud-Ruxst
+git clone https://github.com/yourusername/3D-Word-Cloud-Amrutha.git
+cd 3D-Word-Cloud-Amrutha
 ```
 
 2. Run the setup script (installs all dependencies):
@@ -71,8 +71,8 @@ The application will automatically open in your browser at http://localhost:3000
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/3D-Word-Cloud-Ruxst.git
-cd 3D-Word-Cloud-Ruxst
+git clone https://github.com/yourusername/3D-Word-Cloud-Amrutha.git
+cd 3D-Word-Cloud-Amrutha
 ```
 
 2. Make scripts executable and run setup:
@@ -133,7 +133,7 @@ The frontend will be available at http://localhost:3000
    - **Drag** to rotate the cloud
    - **Scroll** to zoom in/out
    - **Hover** over words to see details
-   - **Click** words to log information to console
+   
 
 ### Sample URLs to Try
 
