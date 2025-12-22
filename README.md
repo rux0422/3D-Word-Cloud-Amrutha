@@ -2,7 +2,7 @@
 
 An interactive web application that visualizes article topics as a stunning 3D word cloud. Enter any article URL and watch as keywords, named entities, and statistics come to life in an immersive 3D space.
 
-![3D Word Cloud](https://via.placeholder.com/800x400?text=3D+Word+Cloud+Visualization)
+ Demo video of the tool: https://drive.google.com/file/d/1D81BBw3MKkHFDnywkbbr9mOf0Rn6kj9t/view?usp=sharing
 
 ## Features
 
